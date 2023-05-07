@@ -1,6 +1,3 @@
-; Author: Livan Ojito Villanueva
-; Date: Sunday, Aug 2 2020.
-; 
 ; This program written in assembly language displays in a tabular form the name, team and goals scored at a club level of some of the top soccer players in the world. 
 ; It then proceeds using the bubble sort algorithm also written in assembly language to sort the tables according to the number of goals scored and finally displays the result.   
 ; 
